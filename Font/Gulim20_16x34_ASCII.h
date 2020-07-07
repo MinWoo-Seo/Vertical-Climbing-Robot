@@ -1,0 +1,2 @@
+extern sFONT Gulim20;
+
