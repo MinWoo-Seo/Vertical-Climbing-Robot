@@ -5,4 +5,4 @@ Raspberry_PI_Vertical-Climbing-Robot.c 는 보조 소스코드입니다. Client�
 app.c는 기울기 센서코드입니다.
 Cube MX로 파일 여신다음 폴더 똑같이 덮어쓰기 하시면 됩니다.
 시스템 구성은 ppt를 통해 확인하시면 됩니다.
-읽어주셔서 감사합니다.
+읽어주셔서 감사합니다. 
